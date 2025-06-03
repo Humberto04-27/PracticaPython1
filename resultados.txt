@@ -1,0 +1,5 @@
+ALan Ponche : [10.0, 6.0, 6.0, 6.0], Promedio: 7.00
+Angel Uriel: [8.0, 1.0, 0.0], Promedio: 3.00
+Humberto: [20.0, 20.0, 20.0, 100.0], Promedio: 40.00
+
+Estudiante con el mejor promedio: Humberto (40.00)
